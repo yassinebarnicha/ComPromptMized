@@ -1,0 +1,7 @@
+mistralai
+requests
+numpy
+pandas
+langchain
+langchain-core
+langchain-community
