@@ -1,7 +1,8 @@
-mistralai
-requests
-numpy
-pandas
-langchain
-langchain-core
-langchain-community
+mistralai==1.7.0
+requests==2.32.3
+numpy==1.26.4
+pandas==2.2.2
+langchain==0.3.25
+langchain-core==0.3.61
+langchain-community==0.3.24
+
