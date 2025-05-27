@@ -1,8 +1,12 @@
+faiss-cpu==1.11.0
+langchain==0.3.25
+langchain-community==0.3.24
+langchain-core==0.3.61
+langchain-text-splitters==0.3.8
 mistralai==1.7.0
-requests==2.32.3
 numpy==1.26.4
 pandas==2.2.2
-langchain==0.3.25
-langchain-core==0.3.61
-langchain-community==0.3.24
+requests==2.32.3
+requests-toolbelt==1.0.0
+
 
